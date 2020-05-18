@@ -9,5 +9,8 @@
   "dependencies": {
     "nodemon": "^2.0.4",
     "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
   }
 }
